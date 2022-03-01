@@ -71,6 +71,16 @@
             "id": 2,
             "name": "Rose Schmitt",
             "specialty": "Printers"
+        },
+        {
+            "id": 3,
+            "name": "Tammy Green",
+            "specialty": "Routers"
+        },
+        {
+            "id": 4,
+            "name": "Angel Envy",
+            "specialty": "Web Design"
         }
     ],
     "serviceTickets": [
