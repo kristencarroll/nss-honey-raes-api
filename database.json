@@ -87,6 +87,11 @@
       "id": 4,
       "name": "Angel Envy",
       "specialty": "Web Design"
+    },
+    {
+      "name": "Alma Jackson",
+      "specialty": "Broken Hardware",
+      "id": 5
     }
   ],
   "serviceTickets": [
@@ -105,6 +110,14 @@
       "description": "Cannot connect to any wifi.",
       "emergency": true,
       "dateCompleted": ""
+    },
+    {
+      "description": "Cannot boot up computer. It is a MacBook.",
+      "emergency": true,
+      "customerId": 11,
+      "employeeId": 1,
+      "dateCompleted": "",
+      "id": 3
     }
   ]
 }
